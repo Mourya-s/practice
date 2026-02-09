@@ -1,9 +1,2 @@
 helo
-<<<<<<< HEAD
-lop
-therre
-=======
-
-lop
-q
->>>>>>> parent of 30b4e16 (Revert "lopppp1")
+hello 2
